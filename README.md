@@ -8,7 +8,7 @@ The **Aim Trainer** project is a Python-based game designed to help users improv
 ## 1- Aim Trainer Gameplay Screen
 
 ![end screen](https://github.com/user-attachments/assets/19499843-dd2b-4bad-b879-a3e041f584da)
-## 2- Ain Trainer End Game Screen
+## 2- Aim Trainer End Game Screen
 
 
 

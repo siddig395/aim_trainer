@@ -2,8 +2,7 @@
 
 ## Overview
 
-The **Aim Trainer** project is a Python-based game designed to help users improve their aiming skills. The game presents targets on the screen that grow in size over time. The objective is to click on these targets before they grow too large and disappear, simulating the need for quick reflexes and precision.
-The **Target Users** are first person shooter gamers who strive to improve their aim ability
+The **Aim Trainer** project is a Python-based game designed to help users improve their aiming skills. The game presents targets on the screen that grow in size over time. The objective is to click on these targets before they grow too large and disappear, simulating the need for quick reflexes and precision. The **Target Users** are first person shooter gamers who strive to improve their aim ability and take their gaming skills to the next level.
 
 ## 1- Aim Trainer Gameplay Screen
 ![game](https://github.com/user-attachments/assets/e21bdf12-c7dc-4bc4-b820-edb04eef49d2)
